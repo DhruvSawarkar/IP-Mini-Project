@@ -1,5 +1,6 @@
 flask
-easyocr
+easyocr==1.7.1
 opencv-python-headless
-numpy
+numpy==1.26.4
 pillow
+gunicorn
